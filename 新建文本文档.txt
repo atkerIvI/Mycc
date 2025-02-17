@@ -1,0 +1,9 @@
+#_*_ coding:utf-8 _*_
+#@Description
+#@Aythor
+#@Copyright
+#@version
+
+
+printf("英雄名称：御坂美城")
+printf("/t生命值: ■■■□□")
